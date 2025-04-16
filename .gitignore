@@ -1,0 +1,11 @@
+# Temporary files and folders (general)
+**/*.lock
+**/*.tmp
+**/*.log
+**/*.bak
+
+# VS Code - OSS config (ignore everything except key files)
+.config/Code - OSS/*
+!.config/Code - OSS/User/
+!.config/Code - OSS/User/keybindings.json
+!.config/Code - OSS/User/settings.json
